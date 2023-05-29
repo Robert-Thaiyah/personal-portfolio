@@ -23,7 +23,7 @@ continue to learn new technologies.
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/Robert-Thaiyah/personal-portfolio)
-- Live Site URL: [Livesite URL]()
+- Live Site URL: [Livesite URL](https://robert-kibue.netlify.app/)
 
 ## My process
 
