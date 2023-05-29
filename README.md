@@ -19,7 +19,6 @@ continue to learn new technologies.
 ### Screenshot
 
 ![](./build/img/Personal%20Portfolio.png)
-![](./build/img/Personal%20Portfolio%20-%20Mobile.png)
 
 ### Links
 
