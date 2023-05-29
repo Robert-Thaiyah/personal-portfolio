@@ -2,7 +2,12 @@
 module.exports = {
   content: ["./build/*.html"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        'lora': ['Lora', 'serif'],
+        'roboto': ['Roboto', 'sans-serif'],
+      }
+    },
   },
   plugins: [],
 }

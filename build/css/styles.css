@@ -785,6 +785,14 @@ video {
   vertical-align: middle;
 }
 
+.font-lora {
+  font-family: Lora, serif;
+}
+
+.font-roboto {
+  font-family: Roboto, sans-serif;
+}
+
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
@@ -1024,4 +1032,3 @@ video {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
-
