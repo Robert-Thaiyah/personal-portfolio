@@ -43,6 +43,6 @@ continue to learn new technologies.
 
 ## Author
 
-- Website - [Git Repo](https://github.com/Robert-Thaiyah)
+- Website - [Git Profile](https://github.com/Robert-Thaiyah)
 
 
