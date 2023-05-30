@@ -3,3 +3,49 @@
 @tailwind utilities;
 
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Roboto&display=swap');
+
+@layer components {
+    .alt-pop {
+      animation: 7000ms ease-out alt-pop-enter;
+    }
+    @keyframes alt-pop-enter {
+      from {
+        @apply opacity-0 sm:translate-y-0 sm:translate-x-2;
+      }
+      to {
+        @apply  opacity-100 sm:translate-x-0;
+      }
+    }
+  }
+
+
+  @layer components {
+    .left {
+      animation: 1000ms ease-in from-left;
+    }
+    @keyframes from-left {
+      0%{
+        opacity: 0;
+        transform: translateX(-400px)
+      }
+      100% {
+        opacity: 1;
+        transform: translateX(0);
+      }
+      }
+      
+    }
+
+    .right {
+        animation: 1000ms ease-in from-right;
+      }
+      @keyframes from-right {
+        0%{
+          opacity: 0;
+          transform: translateX(400px)
+        }
+        100% {
+          opacity: 1;
+          transform: translateX(0);
+        }
+        }
